@@ -1,6 +1,8 @@
 🍕 Pizza Sales Dashboard – Power BI
+
 📌 Overview
-This project is a Power BI dashboard designed to analyze and visualize pizza sales data. The dashboard provides key insights into sales trends, customer preferences, and revenue performance, helping businesses make data-driven decisions.
+This project is a Power BI dashboard designed to analyze and visualize pizza sales data. The dashboard provides key insights into sales trends,
+customer preferences, and revenue performance, helping businesses make data-driven decisions.
 
 📊 Features & Insights
 ✅ Total Sales & Revenue – Get an overview of total revenue and number of orders.
